@@ -1,0 +1,63 @@
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #5F264A;
+  font-size: 18px;
+}
+
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
+
+.red{
+  background-color: #D5B4B4;
+  text-align: center;
+}
+
+.about{
+  color: white;
+}
+
+.contact{
+  color: white;
+
+}
+
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.note {
+  font-size: 120%;
+  color: red;
+}
+
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
